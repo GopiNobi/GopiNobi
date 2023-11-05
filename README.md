@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gopi</h1>
-<h3 align="center">A passionate developer and Data scientist from India</h3>
+<h3 align="center">A passionate FullStack Learner and Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Python-Django**
 
 - 💬 Ask me about **js**
 
