@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopi</h1>
-<h3 align="center">A passionate FullStack Learner and Data Analyst from India</h3>
+<h3 align="center">A passionate Software Engineering from India</h3>
 
 - 🔭 I’m currently working on **E-commerce**
 
